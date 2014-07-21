@@ -41,7 +41,7 @@ $(document).ready(function() {
     // Update clock ever 1 second
     setInterval('updateClock()', 1000);
 
-    // Change background colour ever second
+    // Change background colour every second
     setInterval('changeBackgroundColor()', 1000);
 });
 
