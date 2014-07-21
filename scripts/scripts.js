@@ -23,8 +23,7 @@ function updateClock () {
     // Write time to element 
     $("#time").html(currentTimeString);     
  }
-
-
+ 
  function changeBackgroundColor() {
 
      // Get value of element
